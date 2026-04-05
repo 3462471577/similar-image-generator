@@ -20,13 +20,13 @@
 **🚀 案例一：科幻赛博朋克 (场景变体)**
 <p align="center">
   <img src="https://img.hanyuai.com/file/similar-image-generator/gVDcJTQL.webp" width="48%" alt="科幻风格相似图生成案例 - 赛博朋克原图">
-  <img src="https://api.tudouseo.com/public/upload/1762592584495.png" width="48%" alt="科幻风格相似图生成案例 - 替换建筑形态与雪夜天气">
+ 
 </p>
 
 **🏰 案例二：魔法奇幻学院 (色调与主体替换)**
 <p align="center">
   <img src="https://img.hanyuai.com/file/similar-image-generator/lEfWH91k.webp" width="48%" alt="魔法场景相似图生成案例 - 哥特建筑原图">
-  <img src="https://api.tudouseo.com/public/upload/1762592639390.png" width="48%" alt="魔法场景相似图生成案例 - 暖色系与动漫化风格迁移">
+ 
 </p>
 
 ### 2. 风格化系列拓展 (Stylized Variations)
