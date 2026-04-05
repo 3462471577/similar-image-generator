@@ -32,18 +32,6 @@
 ### 2. 风格化系列拓展 (Stylized Variations)
 基于同一主题，轻松实现奇幻、科幻、二次元动漫、武侠、像素等数十种风格的无限延展。
 
-**⚔️ 武侠水墨风 (江湖意境拓展)**
-<p align="center">
-  <img src="https://api.tudouseo.com/public/upload/1762659325669.png" width="48%" alt="武侠风格相似图 - 汉服竹林侠客对决">
-  <img src="https://api.tudouseo.com/public/upload/1762659382242.png" width="48%" alt="武侠风格相似图 - 悠远意境山水瀑布">
-</p>
-
-**👾 经典像素风 (8位/16位复古游戏感)**
-<p align="center">
-  <img src="https://api.tudouseo.com/public/upload/1762659102825.png" width="48%" alt="像素风格相似图 - 8位沙漠场景衍生">
-  <img src="https://api.tudouseo.com/public/upload/1762659165210.png" width="48%" alt="像素风格相似图 - 16位室内像素纹理拓展">
-</p>
-
 ---
 
 ## ✨ 核心优势与功能亮点 (Core Features)
